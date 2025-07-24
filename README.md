@@ -1,4 +1,4 @@
-# Wednesday-Assignment
+# Lead Generation & Personalized Outreach
 
 ## Overview
 This project automates the process of lead generation, company insights scraping, and personalized outreach message generation. It consists of three main steps:

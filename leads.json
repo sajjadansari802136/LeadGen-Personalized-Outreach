@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Google",
+    "website": "http://www.google.com",
+    "employees": 183000
+  },
+  {
+    "name": "Amazon",
+    "website": "http://www.amazon.com",
+    "employees": 1560000
+  },
+  {
+    "name": "LinkedIn",
+    "website": "http://www.linkedin.com",
+    "employees": 19000
+  },
+  {
+    "name": "Microsoft",
+    "website": "http://www.microsoft.com",
+    "employees": 228000
+  },
+  {
+    "name": "TED Conferences",
+    "website": "http://www.ted.com",
+    "employees": 20000
+  },
+  {
+    "name": "Y for Yoga",
+    "website": "http://www.yforyoga.online",
+    "employees": 0
+  },
+  {
+    "name": "Unilever",
+    "website": "http://www.unilever.com",
+    "employees": 116000
+  },
+  {
+    "name": "Deloitte",
+    "website": "http://www.deloitte.com",
+    "employees": 460000
+  },
+  {
+    "name": "IBM",
+    "website": "http://www.ibm.com",
+    "employees": 270000
+  },
+  {
+    "name": "Forbes",
+    "website": "http://www.forbes.com",
+    "employees": 500
+  },
+  {
+    "name": "Apple",
+    "website": "http://www.apple.com",
+    "employees": 164000
+  },
+  {
+    "name": "Tata Consultancy Services",
+    "website": "http://www.tcs.com",
+    "employees": 608000
+  },
+  {
+    "name": "Tata Consultancy Services",
+    "website": null,
+    "employees": 26
+  },
+  {
+    "name": "Nestl\u00e9",
+    "website": "http://www.nestle.com",
+    "employees": 252000
+  },
+  {
+    "name": "Harvard Business Review",
+    "website": "http://www.hbr.org",
+    "employees": 450
+  },
+  {
+    "name": "Accenture",
+    "website": "http://www.accenture.com",
+    "employees": 801000
+  },
+  {
+    "name": "The Economist",
+    "website": "http://www.economist.com",
+    "employees": 2200
+  },
+  {
+    "name": "Tesla",
+    "website": "http://www.tesla.com",
+    "employees": 126000
+  },
+  {
+    "name": "Meta",
+    "website": "http://www.meta.com",
+    "employees": 77000
+  },
+  {
+    "name": "Netflix",
+    "website": "http://www.netflix.com",
+    "employees": 14000
+  }
+]

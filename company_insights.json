@@ -1,0 +1,168 @@
+[
+  {
+    "name": "Google",
+    "website": "http://www.google.com",
+    "employees": 183000,
+    "insights": []
+  },
+  {
+    "name": "Amazon",
+    "website": "http://www.amazon.com",
+    "employees": 1560000,
+    "insights": []
+  },
+  {
+    "name": "LinkedIn",
+    "website": "http://www.linkedin.com",
+    "employees": 19000,
+    "insights": [
+      "1 billion members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.",
+      "By clicking Continue to join or sign in, you agree to LinkedIn\u2019sUser Agreement,Privacy Policy, andCookie Policy.",
+      "By clicking Continue to join or sign in, you agree to LinkedIn\u2019sUser Agreement,Privacy Policy, andCookie Policy."
+    ]
+  },
+  {
+    "name": "Microsoft",
+    "website": "http://www.microsoft.com",
+    "employees": 228000,
+    "insights": []
+  },
+  {
+    "name": "TED Conferences",
+    "website": "http://www.ted.com",
+    "employees": 20000,
+    "insights": []
+  },
+  {
+    "name": "Y for Yoga",
+    "website": "http://www.yforyoga.online",
+    "employees": 0,
+    "insights": []
+  },
+  {
+    "name": "Unilever",
+    "website": "http://www.unilever.com",
+    "employees": 116000,
+    "insights": [
+      "At Unilever we meet everyday needs for nutrition, hygiene and personal care with brands that help people feel good, look good and get more out of life.",
+      "We are a global consumer goods business with strong fundamentals and differentiated capabilities.",
+      "Our strategy begins with a purpose that places consumers at the heart of everything we do: Brighten everyday life for all."
+    ]
+  },
+  {
+    "name": "Deloitte",
+    "website": "http://www.deloitte.com",
+    "employees": 460000,
+    "insights": [
+      "Industry insights and audit, consulting, financial advisory, risk management and tax services from Deloitte's global network of member firms.",
+      "If we have selected the wrong experience for you, please change it above.",
+      "Now in its 14th year, Deloitte\u2019s global survey of 23,000+ Gen Zs and millennials finds these generations focused on growth and learning as they pursue money, meaning, and well-being."
+    ]
+  },
+  {
+    "name": "IBM",
+    "website": "http://www.ibm.com",
+    "employees": 270000,
+    "insights": [
+      "For more than a century, IBM has been a global technology innovator, leading advances in AI, automation and hybrid cloud solutions that help businesses grow.",
+      "Automate real workflows with prebuilt agents for sales and procurement or build your own with our new no-code tools and capabilities",
+      "Webinar : The Agentic AI Advantage: How Leaders Are Scaling AI Agents Across the Enterprise"
+    ]
+  },
+  {
+    "name": "Forbes",
+    "website": "http://www.forbes.com",
+    "employees": 500,
+    "insights": [
+      "Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle.",
+      "Zhong Shanshan of Nongfu Spring has reclaimed his crown as China\u2019s richest person amid a turnaround of his business and travails at top rival Hangzhou Wahaha Group.",
+      "\u201cPlans are worthless, but planning is everything.\u201d"
+    ]
+  },
+  {
+    "name": "Apple",
+    "website": "http://www.apple.com",
+    "employees": 164000,
+    "insights": [
+      "Sky blue color.Sky high performance with M4.",
+      "Remove distractions from your photos with Clean Up.2",
+      "Get $160-$600 in credit when you trade in iPhone\u00a012 or higher.4"
+    ]
+  },
+  {
+    "name": "Tata Consultancy Services",
+    "website": "http://www.tcs.com",
+    "employees": 608000,
+    "insights": [
+      "TCS, a global leader in IT services, consulting, and business solutions, leverages technology for business transformation and helps catalyze change. Learn more.",
+      "At TCS, we don\u2019t just help businesses transform. We help them become perpetually adaptive enterprises, built to evolve continuously and confidently in a world of constant change.",
+      "Whether it\u2019s running a marathon or helping businesses thrive in applying new technology innovations at scale, we understand what it takes to keep pushing the limits of what\u2019s possible."
+    ]
+  },
+  {
+    "name": "Tata Consultancy Services",
+    "website": null,
+    "employees": 26,
+    "insights": []
+  },
+  {
+    "name": "Nestl\u00e9",
+    "website": "http://www.nestle.com",
+    "employees": 252000,
+    "insights": []
+  },
+  {
+    "name": "Harvard Business Review",
+    "website": "http://www.hbr.org",
+    "employees": 450,
+    "insights": [
+      "Find new ideas and classic advice on strategy, innovation and leadership, for global leaders from the world's best business and management experts.",
+      "Jacinda Ardern, the former prime minister of New Zealand, on crisis leadership.",
+      "Sign up forHBR Executive Agenda- for insights you need to steer your business now. Only available to HBR Executive subscribers."
+    ]
+  },
+  {
+    "name": "Accenture",
+    "website": "http://www.accenture.com",
+    "employees": 801000,
+    "insights": [
+      "Accenture embraces the power of change to create 360\u00b0 value and shared success for our clients, people, shareholders, partners and communities. Learn more.",
+      "Cyber risks are growing faster than ever, outpacing security efforts. How do you get ahead of these threats? In this year\u2019s State of Cybersecurity Resilience, learn the steps to build resilience as you embrace AI transformation.",
+      "By 2030, AI-powered data centers will consume as much electricity as Canada and more water than the UK. Their carbon emissions could account for 3.4% of global emissions, an 11-fold increase in a decade."
+    ]
+  },
+  {
+    "name": "The Economist",
+    "website": "http://www.economist.com",
+    "employees": 2200,
+    "insights": [
+      "Know which way is up. Trusted daily reporting and news analysis. Make sense of politics, economics, business and technology with articles, podcasts and videos.",
+      "Unlock unlimited access to all our award-winning journalism, subscriber-only podcasts and newsletters",
+      "Unlock unlimited access to all our award-winning journalism, subscriber-only podcasts and newsletters"
+    ]
+  },
+  {
+    "name": "Tesla",
+    "website": "http://www.tesla.com",
+    "employees": 126000,
+    "insights": []
+  },
+  {
+    "name": "Meta",
+    "website": "http://www.meta.com",
+    "employees": 77000,
+    "insights": [
+      "Discover Meta's revolutionary technology from virtual and mixed reality to social experiences. Shop Meta Quest, Ray-Ban Meta glasses and Meta accessories."
+    ]
+  },
+  {
+    "name": "Netflix",
+    "website": "http://www.netflix.com",
+    "employees": 14000,
+    "insights": [
+      "Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more.",
+      "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "Save your favourites easily and always have something to watch."
+    ]
+  }
+]
